@@ -1,8 +1,16 @@
+.logo{
+    font-weight: bold;
+}
 .register{
     margin-left: 600px;
+    color: white;
 }
-.icone{
-   margin-left:50px;
+.image{
+    opacity: 0.6;
+}
+.icon{
+   margin-left:30px;
+   font-size: 20px;
 }
 
 @media screen and (max-width:688px){
