@@ -4,3 +4,15 @@
 .icone{
    margin-left:50px;
 }
+
+@media screen and (max-width:688px){
+    .company{
+        display: none;
+    }
+}
+@media screen and (min-width:688px) and (max-width:992px){
+    .company{
+        display: none;
+    }
+    
+}
